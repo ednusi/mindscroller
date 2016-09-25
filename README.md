@@ -1,3 +1,6 @@
+This is not my work alone!
+This game was written by myself, Akshay Guthal (https://github.com/akguthal) and Adam Wang (https://www.facebook.com/adam.wang.1297?fref=ts)
+
 # AMuseGame
 
 A simple side-scroller controlled with your mind.
