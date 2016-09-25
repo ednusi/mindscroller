@@ -16,3 +16,10 @@ b) Pair your Muse headband to the computer/phone.
 c) Once it is paired, double-click the file "StartGame.bat"
 d) Once the command prompt says "Succesfully connected to the Muse!", open localhost:8080 in your browser to start the game
 
+It would be too many files to upload if we added the node modules you need to install, but all you need is:
+
+1. node-muse
+2. socket.io
+3. express
+
+and you're good to go!
